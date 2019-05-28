@@ -1,2 +1,2 @@
-# Acceso_Wifi_Falso
-Demonio de creacion de redes wifi falsas. Actualmente en desarrollo.
+# Acceso Wifi Falso
+Demonio de creacion de redes wifi falsas usando Python y Scapy. Actualmente en desarrollo.
